@@ -1,0 +1,6 @@
+[project]
+name = "PythonProject"
+version = "2024.0.0"
+dependencies = [
+    "pytest",
+]
